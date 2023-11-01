@@ -1,7 +1,12 @@
 function App() {
 
   return (
-    <div>Hello React</div>
+
+    <div>
+    
+    Hello React Now
+      
+      </div>
   )
 }
 
